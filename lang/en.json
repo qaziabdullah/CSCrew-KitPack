@@ -1,0 +1,81 @@
+{
+	
+	"player.not.allowed": "{green}CSCrew KitPack {grey}| {darkred}MVP Menu Is For {lime}VIPS {darkred}Only",
+    "player.disabled.not.allowed": "{green}CSCrew KitPack {grey}| {darkred}Disable MVP Is For {lime}VIPS {darkred}Only",
+    "player.not.allowed.musickit.flag": "{green}CSCrew KitPack {grey}| This Music Kit For {darkred}Vips Only",
+    "player.preview": "{green}CSCrew KitPack {grey}| Playing {purple}{0} {grey}For You Only",
+    "player.musickit.selected": "{green}CSCrew KitPack {grey}| You Select Music Kit {purple}{0}",
+    "player.musickit.disabled": "{green}CSCrew KitPack {grey}| MVP Music Now {darkred}Disabled",
+    "player.musickit.enabled": "{green}CSCrew KitPack {grey}| MVP Music Now {lime}Enabled",
+    "player.musickit.remove": "{green}CSCrew KitPack {grey}| Your Custom MVP Sounds is Now {darkred}Removed",
+    
+    
+    "now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+	"MVP_2.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_2.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/refs/heads/main/gifs/anxiety.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+
+	"MVP_6.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_6.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/a75a46b33c56d21d666477b395e8c90de15853b0/gifs/fuckemall.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",	
+
+	"MVP_11.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_11.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/meandyou.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+	
+	"MVP_12.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+	"MVP_12.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/king.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+	
+	"MVP_13.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+	"MVP_13.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/a75a46b33c56d21d666477b395e8c90de15853b0/gifs/tripathi.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    
+	"MVP_14.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+	"MVP_14.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/melody.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    
+	"MVP_15.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+	"MVP_15.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/skull1.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    
+	"MVP_16.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_16.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/9mm.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    
+    "MVP_17.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_17.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/skull2.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_17.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_19.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_19.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/a75a46b33c56d21d666477b395e8c90de15853b0/gifs/midfing.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_19.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_23.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_23.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/refs/heads/main/gifs/skull.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_23.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_24.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_24.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/a75a46b33c56d21d666477b395e8c90de15853b0/gifs/chess.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_24.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_26.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_26.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/refs/heads/main/gifs/waydown.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_26.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_27.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_27.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/refs/heads/main/gifs/surprised.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_27.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_31.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_31.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/a75a46b33c56d21d666477b395e8c90de15853b0/gifs/mvpshubh.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_31.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "MVP_34.now.playing.chat": "{green}CSCrew KitPack {grey}| {lightblue}{0} {grey} Is MVP Of The Match !!!!!!! {nextline}{green}CSCrew KitPack {grey}| Now Playing {purple}{1}",
+    "MVP_34.now.playing.centre": "<font color='purple'>{0} <font color='white'>Is MVP Of The Match! <br> <img src='https://raw.githubusercontent.com/qaziabdullah/CSCrew-KitPack/refs/heads/main/gifs/theartofdying.gif' class=''> <br> <br> <font color='white'>Playing <font color='green'>{1} </font>",
+    "MVP_34.now.playing.centre.bottom": "{0} Is MVP Of The Match! Playing   {1}",
+
+    "menu.music": ".:[ Music Menu ]:.",
+    "menu.are.you.sure": "You Want [ {0} ] ?",
+    "menu.answer.yes": "Yes",
+    "menu.answer.no": "No, Preview It First",
+    "menu.back": "-> Back",
+    "menu.disabled": "Disabled All MVP Sounds",
+    "menu.enabled": "Enabled All MVP Sounds",
+    "menu.remove": "Remove Your Custom MVP Sound"
+}

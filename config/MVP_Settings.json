@@ -1,0 +1,332 @@
+// Download https://github.com/Source2ZE/MultiAddonManager  With Gold KingZ WorkShop 
+// https://steamcommunity.com/sharedfiles/filedetails/?id=3244740528
+// mm_extra_addons 3244740528
+// You Can Find WorkShop Path Sound In  https://github.com/oqyh/cs2-MVP-Sounds-GoldKingZ/blob/main/sounds/Gold%20KingZ%20WorkShop%20Sounds.txt
+// Info: 
+// 'CanBePreview' = Make Item PreviewAble Before Select
+// 'FLAGS' = Depend Who Access To The Items [ex of groups: @css/root,@css/admin,#css/admin] 
+// 'HIDDEN' = Will Make Only Who Has Access 'VIP','VVIP','ADMIN' Can See The Item
+// 'Message_Chat' = Print Chat In Lang 'now.playing.chat'
+// 'Message_Center' = Print Center In Lang 'now.playing.centre'
+// 'Message_Center_Bottom' = Print Center Bottom In Lang 'now.playing.centre.bottom'
+// 'Custom_Message' = Will Switch All Messages To Separate Print In Lang 'MVP_X.now.playing' Depend MVP Kit Name
+// 'MVP_Kit_Name' = Music Kit Display Name
+// 'Sound_Path_X' = Music Path Start With 1 Put As Many As You Like  And It Will Play Randomly With No Duplicates 
+
+{
+  "MVP_1": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "410 - Sidhu",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/410.vsnd"
+  },
+  "MVP_2": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Dally Nu Dalla",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/DallynuDalla.vsnd"
+  },
+  "MVP_3": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "PPP - Dilan Teer Bija",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/DilanTeerBija.vsnd"
+  },
+  "MVP_4": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Dior - SHUBH",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Dior.vsnd"
+  },
+  "MVP_5": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Directed by Robert",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/directedbyrobert.vsnd"
+  },
+  "MVP_6": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Fuck Em All",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/fuckemall.vsnd"
+  },
+  "MVP_7": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Meri Jind Meri Jaan",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/GernalAsimMuneer.vsnd"
+  },
+  "MVP_8": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Respect++",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/GTAmissionpass.vsnd"
+  },
+  "MVP_9": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Personality - Marwat",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/HighPersonality.vsnd"
+  },
+  "MVP_10": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Jatt Da Mukabla",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/JatDaMuqabla.vsnd"
+  },
+  "MVP_11": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Cat Vide - Levan Pollka",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Levan-Pollka-Cat-Vibe.vsnd"
+  },
+  "MVP_12": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Mashooq - V. Brar",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Mashooq.vsnd"
+  },
+  "MVP_13": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "MirzaPur - Theme",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Mirzapur.vsnd"
+  },
+  "MVP_14": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Bot kak to tak",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Russian-BOTKAKTOTAK.vsnd"
+  },
+  "MVP_15": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "The Next Episode",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/TheNextEpisode.vsnd"
+  },
+  "MVP_16": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Tripathi - Meme Music",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Tripathi-Meme-Music.vsnd"
+  },
+  "MVP_17": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "☠Wavvyy",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/Wavvyy.vsnd"
+  },
+  "MVP_18": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Ainsi Bas La Vida",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/ainsibaslavida.vsnd"
+  },
+  "MVP_19": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Anxiety",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/anxiety.vsnd"
+  },
+  "MVP_20": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Rick & Morty - TrapCity",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/evilrickmorty.vsnd"
+  },
+  "MVP_21": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "In The End",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/linkinpark.vsnd"
+  },
+  "MVP_22": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Panda - Desiigner",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/panda.vsnd"
+  },
+  "MVP_23": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Sorry Darling",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/sorrydarling.vsnd"
+  },
+  "MVP_24": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Sweet Dreams",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/sweetdreams.vsnd"
+  },
+  "MVP_25": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "The Boys",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/theboys.vsnd"
+  },
+  "MVP_26": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Way Down We Go",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/waydownwego.vsnd"
+  },
+  "MVP_27": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Yeh Kya Hua?",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/yehkyahua.vsnd"
+  },
+  "MVP_28": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Bado Badi - Remix",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/badobadi.vsnd"
+  },
+  "MVP_29": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Confirm Jannati",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/confirmjannati.vsnd"
+  },
+  "MVP_30": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Ice - SHUBH",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/iceshubh.vsnd"
+  },
+  "MVP_31": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "MVP - SHUBH",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/mvpshubh.vsnd"
+  },
+  "MVP_32": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "OG - SHUBH",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/ogshubh.vsnd"
+  },
+  "MVP_33": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Silencer - Drop",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/phatasilencer.vsnd"
+  },
+  "MVP_34": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "The Art of Dying",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/thartofdying.vsnd"
+  },
+  "MVP_35": {
+    "CanBePreview": true,
+    "Custom_Message": true,
+    "Message_Chat": true,
+    "Message_Center": true,
+    "Message_Center_Bottom_InSecs": 10,
+    "MVP_Kit_Name": "Tur Gye Yaar",
+    "Sound_Path_1": "sounds/CSCrew-KitPack/turgyeyar.vsnd"
+  }
+}
