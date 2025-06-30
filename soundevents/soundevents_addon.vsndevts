@@ -1,0 +1,192 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	sound1 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/410.vsnd"
+	},
+	sound2 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/DallynuDalla.vsnd"
+	},
+	sound3 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/DilanTeerBija.vsnd"
+	},
+	sound4 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Dior.vsnd"
+	},
+	sound5 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/directedbyrobert.vsnd"
+	},
+	sound6 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/fuckemall.vsnd"
+	},
+	sound7 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/GernalAsimMuneer.vsnd"
+	},
+	sound8 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/GTAmissionpass.vsnd"
+	},
+	sound9 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/HighPersonality.vsnd"
+	},
+	sound10 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/JatDaMuqabla.vsnd"
+	},
+	sound11 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Levan-Pollka-Cat-Vibe.vsnd"
+	},
+	sound12 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Mashooq.vsnd"
+	},
+	sound13 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Mirzapur.vsnd"
+	},
+	sound14 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Russian-BOTKAKTOTAK.vsnd"
+	},
+	sound15 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/TheNextEpisode.vsnd"
+	},
+	sound16 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Tripathi-Meme-Music.vsnd"
+	},
+	sound17 = 
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Wavvyy.vsnd"
+	}
+	sound18 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/AinsiBasLaVida.vsnd"
+	},
+	sound19 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Anxiety.vsnd"
+	},
+	sound20 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/EvilRickMorty.vsnd"
+	},
+	sound21 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/LinkinPark.vsnd"
+	},
+	sound22 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/Panda.vsnd"
+	},
+	sound23 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/SorryDarling.vsnd"
+	},
+	sound24 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/SweetDreams.vsnd"
+	},
+	sound25 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/TheBoys.vsnd"
+	},
+	sound26 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/WayDownWeGo.vsnd"
+	},
+	sound27 =
+	{
+		type = "csgo_mega"
+		volume = 0.600000
+		pitch = 1.000000
+		vsnd_files_track_01 = "sounds/CSCrew-KitPack/YehKyaHua.vsnd"
+	}
+}
